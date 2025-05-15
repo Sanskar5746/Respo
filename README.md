@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a pre-final year B.Tech Computer Science Engineering student at GIET University, Gunupur.  
+🎓 Graduated B.Tech Computer Science Engineering student at GIET University, Gunupur.  
 🔍 Passionate about transforming raw data into meaningful insights to drive informed business decisions.  
 🌱 Currently enhancing my skills in data visualization, statistical analysis, and predictive modeling.  
 🏆 Top Performer at Lagozon Edutech Internship for designing data analytics dashboards.
@@ -16,9 +16,9 @@
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Python, SQL, Java, C
-- **Data Tools**: Power BI, Excel, Tableau, Jupyter Notebook
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Languages**: Python, SQL, Java.
+- **Data Tools**: Power BI, Excel, Tableau, Jupyter Notebook.
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn.
 - **Other Skills**: Data Cleaning, Dashboard Design, Exploratory Data Analysis (EDA)
 
 ---
