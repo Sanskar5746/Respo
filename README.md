@@ -45,6 +45,12 @@
 
 ---
 
+## 🎓 Certifications
+
+[![Google Ads Measurement Certification](https://img.shields.io/badge/Google%20Ads%20Certification-Measurement-brightgreen?style=for-the-badge&logo=google)](https://skillshop.credential.net/b90ea1f7-0da4-4c90-adf3-73f11c655fd4#acc.XotYUpGa)
+
+---
+
 ## 📈 Featured Projects
 
 ### 🔹 [Adventure Works Dashboard](https://github.com/Sanskar5746/PowerBI-Final-Project)  
