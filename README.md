@@ -1,65 +1,73 @@
 <h1 align="center">Hi there, I'm Sanskar Yadav 👋</h1>
 <p align="center">
-  Aspiring Data Analyst | Power BI | Python | SQL | Data Visualization
+  🎯 Aspiring Data Analyst | 📊 Power BI | 🐍 Python | 🧠 SQL | 📈 Data Visualization
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 Graduated B.Tech Computer Science Engineering student at GIET University, Gunupur.  
-🔍 Passionate about transforming raw data into meaningful insights to drive informed business decisions.  
-🌱 Currently enhancing my skills in data visualization, statistical analysis, and predictive modeling.  
-🏆 Top Performer at Lagozon Edutech Internship for designing data analytics dashboards.
+🎓 Graduated B.Tech Computer Science Engineering student at **GIET University, Gunupur**.  
+💡 Passionate about transforming raw data into actionable insights.  
+🔍 Strong foundation in **EDA, visualization, dashboards, and reporting** using tools like Power BI & Python.  
+🏅 *Top Performer* in Data Analytics Internship at **Lagozon Edutech Pvt. Ltd**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 Skills & Tools
 
-- **Languages**: Python, SQL, Java.
-- **Data Tools**: Power BI, Excel, Tableau, Jupyter Notebook.
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn.
-- **Other Skills**: Data Cleaning, Dashboard Design, Exploratory Data Analysis (EDA)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
 ### 📊 Data Analytics Intern – **Lagozon Edutech Pvt. Ltd.**  
-**Duration**: June 2023 – July 2023  
-- Designed a **Sales Analytics Dashboard** using Power BI.
-- Delivered insights on top-selling products, best-performing agents, and key regional trends.
-- Created user-friendly interfaces for interactive data exploration.
+📍 Delhi | 🗓️ June 2023 – July 2023
+
+- 🔧 Developed a **Sales Analytics Dashboard** using Power BI.
+- 🔍 Delivered insights on product performance, top agents, and regional trends.
+- 🧭 Created interactive, user-friendly dashboards for stakeholder use.
 
 ---
 
 ## 📈 Projects
 
 ### 📌 [Adventure Works Dashboard](https://github.com/Sanskar5746/PowerBI-Final-Project)
-- Built dynamic Power BI dashboards to visualize complex business data.
-- Integrated multiple data sources and performed data modeling using DAX.
-- Enabled real-time business insights and decision-making for stakeholders.
+> 🧩 Built Power BI dashboards to visualize business KPIs.  
+> 📊 Integrated multiple sources, used DAX, and enabled better decision-making.
 
 ### 📌 [Diwali Sales Analysis](https://github.com/Sanskar5746/Diwali_Sales_Analysis)
-- Cleaned and transformed sales datasets for accurate analysis.
-- Used Python libraries like Pandas, Seaborn, and Matplotlib for EDA.
-- Visualized consumer behavior and gender distribution to support marketing strategies.
+> 🧹 Cleaned and transformed large datasets with Pandas.  
+> 📉 Visualized trends using Seaborn and Matplotlib.  
+> 🎯 Analyzed demographics to enhance marketing strategies.
+
+### 📌 [Face Recognition Attendance System](https://github.com/Sanskar5746/Face-Recognition-Attendance-System)
+> 👁️‍🗨️ Real-time attendance system using Python, OpenCV, and MySQL.  
+> 🔐 Integrated face recognition for automated logging.
 
 ---
 
 ## 🏆 Achievements
 
-- 🌟 **Top Performer** at Lagozon Data Analyst Internship
-- 🛠️ **Management Lead** in Android and IoT Club at GIET University
-- 🏋️‍♂️ **Medalist in Powerlifting** and active participant in college events
+- 🥇 **Top Performer** in Lagozon Internship (Data Analyst Designer)
+- 🛠️ **Management Lead** – Android & IoT Club
+- 🏋️‍♂️ Medalist in **Powerlifting**
+- 🧑‍🎓 Successfully organized **3–4 college events**
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanskar-yadav-173a2a234/)
-- 📧 sanskaryadav5746@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskar-yadav-173a2a234/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskaryadav5746@gmail.com)
 
 ---
 
-> *"Data is the new oil. But it’s valuable only if refined." – Clive Humby*
+> *"Without data, you're just another person with an opinion." – W. Edwards Deming*
+
