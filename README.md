@@ -1,76 +1,65 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/animation-banner.gif" alt="Data Analytics" width="600"/>
-  
-  # 🌟 Welcome to My GitHub Profile! 🌟
-  
-  ### 🚀 Data Analyst | 📊 Insights Enthusiast | 🔍 Problem Solver
-</div>
+<h1 align="center">Hi there, I'm Sanskar Yadav 👋</h1>
+<p align="center">
+  Aspiring Data Analyst | Power BI | Python | SQL | Data Visualization
+</p>
 
 ---
 
-### 👋 About Me
-Hi there! I am **Sanskar Yadav**, a passionate **Data Analyst** skilled in Python, SQL, Power BI, and Data Visualization. I thrive on solving complex problems by turning raw data into actionable insights. With hands-on experience in:
+## 👨‍💻 About Me
 
-- 📈 Building interactive dashboards
-- 📊 Conducting statistical analyses
-- 🔄 Streamlining data pipelines
-
-I aim to deliver impactful business solutions.
+🎓 I'm a pre-final year B.Tech Computer Science Engineering student at GIET University, Gunupur.  
+🔍 Passionate about transforming raw data into meaningful insights to drive informed business decisions.  
+🌱 Currently enhancing my skills in data visualization, statistical analysis, and predictive modeling.  
+🏆 Top Performer at Lagozon Edutech Internship for designing data analytics dashboards.
 
 ---
 
-### 🛠️ Tools & Technologies
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</div>
+## 🛠️ Technical Skills
+
+- **Languages**: Python, SQL, Java, C
+- **Data Tools**: Power BI, Excel, Tableau, Jupyter Notebook
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Other Skills**: Data Cleaning, Dashboard Design, Exploratory Data Analysis (EDA)
 
 ---
 
-### 📂 Featured Projects
+## 💼 Experience
 
-#### 🔷 [Adventure Works Dashboard](https://github.com/Sanskar5746/AdventureWorks-Dashboard)
-- Built an interactive sales dashboard using **Power BI** and **MySQL**.
-- Improved business decision-making with **KPIs** and **trend analysis**.
-
-#### 🔷 [Face Recognition System](https://github.com/Sanskar5746/FaceRecognition-System)
-- Developed a real-time face recognition application using **Python** and **OpenCV**.
-- Integrated **TensorFlow** and **MySQL** for advanced facial data management.
-
-#### 🔷 [Diwali Sales Insights](https://github.com/Sanskar5746/Diwali-Sales-Insights)
-- Performed **data cleaning**, **exploratory analysis**, and built **visualizations** using Python.
+### 📊 Data Analytics Intern – **Lagozon Edutech Pvt. Ltd.**  
+**Duration**: June 2023 – July 2023  
+- Designed a **Sales Analytics Dashboard** using Power BI.
+- Delivered insights on top-selling products, best-performing agents, and key regional trends.
+- Created user-friendly interfaces for interactive data exploration.
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanskar5746&show_icons=true&theme=radical" alt="Sanskar's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanskar5746&theme=radical" alt="GitHub Streak"/>
-</div>
+## 📈 Projects
+
+### 📌 [Adventure Works Dashboard](https://github.com/Sanskar5746/PowerBI-Final-Project)
+- Built dynamic Power BI dashboards to visualize complex business data.
+- Integrated multiple data sources and performed data modeling using DAX.
+- Enabled real-time business insights and decision-making for stakeholders.
+
+### 📌 [Diwali Sales Analysis](https://github.com/Sanskar5746/Diwali_Sales_Analysis)
+- Cleaned and transformed sales datasets for accurate analysis.
+- Used Python libraries like Pandas, Seaborn, and Matplotlib for EDA.
+- Visualized consumer behavior and gender distribution to support marketing strategies.
 
 ---
 
-### ✨ Get In Touch
-<div align="center">
-  <a href="mailto:sanskaryadav5746@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sanskar-yadav/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+## 🏆 Achievements
+
+- 🌟 **Top Performer** at Lagozon Data Analyst Internship
+- 🛠️ **Management Lead** in Android and IoT Club at GIET University
+- 🏋️‍♂️ **Medalist in Powerlifting** and active participant in college events
 
 ---
 
-<div align="center">
-  <h4>⭐️ Thanks for visiting my GitHub! Feel free to explore and connect! ⭐️</h4>
-</div>
+## 📫 Let's Connect
 
-<style>
-  body {
-    animation: fadeIn 2s;
-  }
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanskar-yadav-173a2a234/)
+- 📧 sanskaryadav5746@gmail.com
 
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-</style>
+---
+
+> *"Data is the new oil. But it’s valuable only if refined." – Clive Humby*
