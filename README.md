@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering student at **GIET University, Gunupur** (Pre-Final Year)  
+🎓 Graduated B.Tech Computer Science Engineering student from **GIET University, Gunupur**   
 💡 Passionate about transforming data into actionable insights and crafting modern, user-friendly UIs  
 📊 Strong background in **EDA, dashboards, data storytelling**, and **frontend development**  
 🏅 Recognized as **Top Performer** in Data Analytics Internship at *Lagozon Edutech Pvt. Ltd*  
